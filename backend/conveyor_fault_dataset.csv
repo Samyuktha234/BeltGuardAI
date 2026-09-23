@@ -1,0 +1,1210 @@
+Fault,Speed (rpm),Load (kg),Temperature (℃),Vibration (m/s²),Current (A)
+ball bearing,116,490,43,0.82,3.17
+ball bearing,121,507,43,0.83,3.09
+ball bearing,116,495,38,0.68,3.29
+ball bearing,116,491,43,0.77,3.19
+ball bearing,119,492,43,0.75,3.23
+ball bearing,122,482,40,0.79,3.22
+ball bearing,124,510,42,0.79,3.39
+ball bearing,117,492,38,0.79,3.11
+ball bearing,117,507,43,0.72,3.4
+ball bearing,118,503,37,0.68,3.26
+ball bearing,119,501,42,0.68,3.33
+ball bearing,117,482,43,0.66,3.27
+ball bearing,119,482,43,0.66,3.0
+ball bearing,116,500,40,0.83,3.05
+ball bearing,117,507,40,0.71,3.09
+ball bearing,123,495,43,0.68,3.29
+ball bearing,119,496,37,0.77,3.09
+ball bearing,116,480,39,0.66,3.18
+ball bearing,118,493,43,0.68,3.02
+ball bearing,123,499,38,0.7,3.06
+ball bearing,121,503,37,0.71,3.12
+ball bearing,120,486,38,0.84,3.21
+ball bearing,123,505,41,0.73,3.08
+ball bearing,122,495,43,0.73,3.37
+ball bearing,120,484,43,0.75,3.1
+ball bearing,115,484,39,0.8,3.01
+ball bearing,121,487,38,0.66,3.26
+ball bearing,120,505,40,0.67,3.04
+ball bearing,116,498,41,0.76,3.35
+ball bearing,117,495,41,0.79,3.09
+ball bearing,125,498,40,0.65,3.19
+ball bearing,119,507,41,0.83,3.25
+ball bearing,122,497,37,0.71,3.22
+ball bearing,116,509,39,0.68,3.2
+ball bearing,121,491,42,0.65,3.07
+ball bearing,119,506,43,0.84,3.1
+ball bearing,125,493,40,0.84,3.39
+ball bearing,115,484,40,0.8,3.21
+ball bearing,123,508,37,0.66,3.11
+ball bearing,123,486,42,0.69,3.31
+ball bearing,124,503,38,0.73,3.25
+ball bearing,117,498,38,0.72,3.14
+ball bearing,121,501,38,0.77,3.26
+ball bearing,119,494,37,0.83,3.06
+ball bearing,116,499,42,0.66,3.33
+ball bearing,120,502,41,0.72,3.1
+ball bearing,117,483,41,0.66,3.32
+ball bearing,125,505,40,0.76,3.25
+ball bearing,118,494,42,0.83,3.04
+ball bearing,121,502,39,0.73,3.02
+ball bearing,118,494,43,0.81,3.09
+ball bearing,123,504,38,0.73,3.23
+ball bearing,117,482,42,0.65,3.38
+ball bearing,121,485,37,0.83,3.4
+ball bearing,122,504,39,0.82,3.07
+ball bearing,115,484,42,0.73,3.05
+ball bearing,116,488,43,0.72,3.12
+ball bearing,120,493,40,0.82,3.21
+ball bearing,120,485,41,0.68,3.14
+ball bearing,122,508,37,0.84,3.24
+ball bearing,115,491,40,0.78,3.31
+ball bearing,123,493,37,0.77,3.14
+ball bearing,124,495,41,0.75,3.28
+ball bearing,121,508,41,0.82,3.21
+ball bearing,121,499,39,0.69,3.36
+ball bearing,117,503,43,0.75,3.35
+ball bearing,118,503,39,0.73,3.0
+ball bearing,118,509,43,0.81,3.32
+ball bearing,118,508,37,0.83,3.39
+ball bearing,120,499,41,0.75,3.14
+ball bearing,122,486,39,0.8,3.05
+ball bearing,120,489,39,0.83,3.2
+ball bearing,115,502,40,0.68,3.38
+ball bearing,120,483,40,0.72,3.16
+ball bearing,125,504,39,0.76,3.37
+ball bearing,116,499,37,0.79,3.17
+ball bearing,122,487,37,0.66,3.33
+ball bearing,123,505,40,0.74,3.28
+ball bearing,125,504,42,0.7,3.0
+ball bearing,124,495,42,0.82,3.02
+ball bearing,120,501,43,0.67,3.26
+ball bearing,120,507,37,0.73,3.25
+ball bearing,115,504,41,0.83,3.28
+ball bearing,119,499,43,0.66,3.31
+ball bearing,119,493,42,0.77,3.18
+ball bearing,116,504,41,0.73,3.38
+ball bearing,118,496,37,0.73,3.31
+ball bearing,120,482,41,0.71,3.38
+ball bearing,115,483,37,0.68,3.21
+ball bearing,119,501,40,0.74,3.35
+ball bearing,121,486,41,0.74,3.12
+ball bearing,122,489,41,0.71,3.17
+ball bearing,115,493,43,0.67,3.09
+ball bearing,120,481,37,0.84,3.26
+ball bearing,123,487,37,0.84,3.01
+ball bearing,125,483,38,0.72,3.37
+ball bearing,122,507,42,0.69,3.12
+ball bearing,115,485,40,0.65,3.02
+ball bearing,117,505,37,0.69,3.16
+ball bearing,119,499,37,0.76,3.28
+ball bearing,123,496,39,0.81,3.35
+ball bearing,120,492,38,0.77,3.08
+ball bearing,125,509,38,0.71,3.11
+ball bearing,115,485,39,0.77,3.15
+ball bearing,121,484,37,0.81,3.3
+ball bearing,122,486,37,0.78,3.16
+ball bearing,125,481,41,0.67,3.09
+ball bearing,117,492,42,0.83,3.19
+ball bearing,118,488,40,0.8,3.23
+ball bearing,125,480,37,0.84,3.25
+ball bearing,121,493,39,0.8,3.14
+ball bearing,121,503,39,0.82,3.3
+ball bearing,124,491,39,0.74,3.38
+ball bearing,121,508,42,0.79,3.23
+ball bearing,123,488,40,0.82,3.18
+ball bearing,115,490,37,0.73,3.11
+ball bearing,120,505,38,0.8,3.01
+ball bearing,123,498,42,0.65,3.28
+ball bearing,120,503,39,0.68,3.08
+ball bearing,117,484,39,0.75,3.38
+ball bearing,116,481,41,0.82,3.17
+ball bearing,123,505,40,0.72,3.39
+ball bearing,119,489,38,0.7,3.11
+ball bearing,125,504,37,0.78,3.0
+ball bearing,119,486,37,0.75,3.4
+ball bearing,120,510,43,0.84,3.14
+ball bearing,120,491,40,0.7,3.22
+ball bearing,120,492,41,0.81,3.32
+ball bearing,122,496,37,0.65,3.23
+ball bearing,117,480,42,0.75,3.03
+ball bearing,122,500,41,0.65,3.33
+ball bearing,117,499,37,0.75,3.23
+ball bearing,120,500,41,0.72,3.35
+ball bearing,123,492,40,0.75,3.17
+ball bearing,123,508,41,0.82,3.05
+ball bearing,122,505,40,0.69,3.1
+ball bearing,122,500,43,0.7,3.06
+ball bearing,125,498,38,0.74,3.08
+ball bearing,120,491,39,0.72,3.01
+ball bearing,119,501,41,0.65,3.24
+ball bearing,125,488,39,0.76,3.18
+ball bearing,122,486,40,0.65,3.39
+ball bearing,117,494,41,0.71,3.38
+ball bearing,122,498,42,0.68,3.06
+ball bearing,124,483,38,0.75,3.12
+ball bearing,123,493,38,0.78,3.33
+ball bearing,117,505,38,0.75,3.38
+ball bearing,123,489,37,0.67,3.17
+ball bearing,115,505,38,0.69,3.14
+ball bearing,117,486,39,0.75,3.0
+ball bearing,121,503,38,0.82,3.13
+ball bearing,125,510,40,0.82,3.1
+ball bearing,122,480,43,0.82,3.23
+ball bearing,119,480,38,0.8,3.2
+ball bearing,116,496,41,0.81,3.24
+ball bearing,117,488,38,0.84,3.32
+ball bearing,121,482,40,0.84,3.4
+ball bearing,119,495,42,0.66,3.4
+ball bearing,120,489,37,0.82,3.34
+ball bearing,123,495,43,0.8,3.05
+ball bearing,115,500,38,0.78,3.06
+ball bearing,121,486,37,0.7,3.18
+ball bearing,124,490,42,0.82,3.4
+ball bearing,125,507,38,0.76,3.36
+ball bearing,123,493,43,0.7,3.3
+ball bearing,125,488,43,0.83,3.21
+ball bearing,119,489,39,0.77,3.35
+ball bearing,118,497,41,0.78,3.19
+ball bearing,116,493,39,0.79,3.1
+ball bearing,117,504,37,0.81,3.33
+ball bearing,125,500,43,0.81,3.18
+ball bearing,124,498,41,0.72,3.34
+ball bearing,119,507,38,0.68,3.02
+ball bearing,124,488,39,0.67,3.29
+ball bearing,122,484,41,0.66,3.08
+ball bearing,121,499,39,0.68,3.34
+ball bearing,125,488,43,0.74,3.29
+ball bearing,118,508,41,0.77,3.31
+ball bearing,125,486,38,0.79,3.25
+ball bearing,123,500,38,0.72,3.4
+ball bearing,123,483,43,0.82,3.38
+ball bearing,125,508,40,0.83,3.21
+ball bearing,125,498,42,0.67,3.02
+ball bearing,115,490,37,0.82,3.07
+ball bearing,124,503,38,0.69,3.36
+ball bearing,118,486,40,0.73,3.39
+ball bearing,118,488,42,0.77,3.28
+ball bearing,117,509,41,0.76,3.17
+ball bearing,116,508,38,0.76,3.18
+ball bearing,120,506,38,0.72,3.38
+ball bearing,120,493,38,0.72,3.12
+ball bearing,119,480,40,0.77,3.37
+ball bearing,125,498,37,0.84,3.39
+ball bearing,115,490,39,0.69,3.2
+ball bearing,119,492,41,0.67,3.23
+ball bearing,120,488,37,0.73,3.36
+ball bearing,125,493,41,0.75,3.39
+ball bearing,123,481,42,0.82,3.4
+ball bearing,124,490,43,0.74,3.09
+ball bearing,121,489,42,0.65,3.03
+ball bearing,124,491,42,0.82,3.2
+central shaft,122,525,47,0.95,3.43
+central shaft,120,524,46,0.84,3.65
+central shaft,123,503,43,0.88,3.54
+central shaft,129,525,43,0.97,3.67
+central shaft,126,510,46,0.95,3.47
+central shaft,125,519,41,0.98,3.8
+central shaft,125,506,44,0.82,3.73
+central shaft,120,501,41,0.94,3.8
+central shaft,128,510,44,0.99,3.47
+central shaft,123,527,47,0.86,3.49
+central shaft,128,519,43,0.82,3.62
+central shaft,130,530,43,0.85,3.57
+central shaft,127,505,42,0.94,3.48
+central shaft,126,520,44,0.95,3.47
+central shaft,126,526,41,0.93,3.61
+central shaft,124,510,46,0.83,3.6
+central shaft,126,502,45,0.86,3.76
+central shaft,130,520,43,0.93,3.59
+central shaft,128,523,43,0.95,3.75
+central shaft,130,506,47,0.96,3.49
+central shaft,122,512,42,0.83,3.59
+central shaft,129,527,43,0.93,3.43
+central shaft,121,502,41,0.84,3.46
+central shaft,128,527,45,0.84,3.67
+central shaft,122,510,44,0.83,3.49
+central shaft,126,506,46,0.83,3.55
+central shaft,125,509,43,0.98,3.53
+central shaft,123,512,47,0.9,3.51
+central shaft,120,527,45,0.86,3.45
+central shaft,124,506,43,0.89,3.66
+central shaft,123,514,45,0.87,3.56
+central shaft,128,512,42,0.97,3.65
+central shaft,120,514,45,0.84,3.66
+central shaft,130,514,45,0.92,3.61
+central shaft,128,504,41,0.83,3.53
+central shaft,121,503,41,0.9,3.68
+central shaft,128,526,45,0.88,3.51
+central shaft,120,525,44,0.8,3.63
+central shaft,129,530,46,0.91,3.44
+central shaft,128,507,46,0.9,3.43
+central shaft,123,521,44,0.95,3.77
+central shaft,121,504,44,0.82,3.41
+central shaft,121,516,43,0.91,3.63
+central shaft,125,516,44,0.91,3.64
+central shaft,120,505,42,0.89,3.68
+central shaft,120,522,47,0.99,3.51
+central shaft,130,518,41,0.99,3.65
+central shaft,122,506,44,0.94,3.55
+central shaft,123,519,42,0.88,3.54
+central shaft,120,523,44,0.94,3.53
+central shaft,129,529,44,0.82,3.46
+central shaft,121,521,42,0.92,3.5
+central shaft,126,525,41,0.88,3.73
+central shaft,126,509,41,0.87,3.65
+central shaft,127,514,47,0.98,3.69
+central shaft,122,514,41,0.81,3.41
+central shaft,121,526,45,0.84,3.5
+central shaft,124,508,46,0.83,3.61
+central shaft,127,500,45,0.83,3.43
+central shaft,124,516,44,0.85,3.4
+central shaft,124,523,45,0.93,3.47
+central shaft,125,526,41,1.0,3.67
+central shaft,124,515,47,0.94,3.7
+central shaft,124,506,44,0.99,3.65
+central shaft,125,508,45,1.0,3.67
+central shaft,124,514,43,0.84,3.61
+central shaft,126,506,47,1.0,3.64
+central shaft,125,523,45,0.88,3.6
+central shaft,127,506,41,0.8,3.51
+central shaft,127,524,47,0.93,3.52
+central shaft,129,527,41,0.89,3.54
+central shaft,121,511,47,0.93,3.56
+central shaft,130,529,41,0.95,3.65
+central shaft,120,508,43,0.91,3.65
+central shaft,122,518,42,0.89,3.64
+central shaft,122,519,46,0.96,3.4
+central shaft,122,522,41,0.94,3.61
+central shaft,124,505,46,0.99,3.79
+central shaft,123,501,47,0.99,3.48
+central shaft,123,527,45,0.93,3.58
+central shaft,127,500,45,0.97,3.78
+central shaft,126,513,44,0.87,3.72
+central shaft,129,525,45,0.95,3.77
+central shaft,128,519,46,0.87,3.51
+central shaft,124,525,42,0.94,3.52
+central shaft,121,508,45,0.83,3.45
+central shaft,129,523,45,0.85,3.59
+central shaft,130,512,47,0.94,3.52
+central shaft,124,500,42,0.92,3.65
+central shaft,126,525,44,0.88,3.77
+central shaft,124,516,44,0.86,3.43
+central shaft,120,522,46,0.92,3.47
+central shaft,123,521,47,0.92,3.8
+central shaft,128,509,46,0.86,3.47
+central shaft,128,525,44,0.95,3.57
+central shaft,128,528,41,0.89,3.6
+central shaft,130,506,47,0.82,3.59
+central shaft,130,530,41,0.8,3.41
+central shaft,127,520,45,0.97,3.6
+central shaft,127,525,47,1.0,3.79
+central shaft,120,505,46,0.88,3.74
+central shaft,121,510,45,0.88,3.43
+central shaft,126,525,42,0.98,3.69
+central shaft,126,506,42,0.96,3.43
+central shaft,130,529,47,0.95,3.62
+central shaft,121,523,45,0.82,3.56
+central shaft,127,507,41,1.0,3.69
+central shaft,120,514,43,0.84,3.67
+central shaft,120,517,46,0.91,3.69
+central shaft,129,519,44,0.91,3.66
+central shaft,126,517,41,0.83,3.64
+central shaft,125,522,47,0.86,3.75
+central shaft,128,527,46,0.98,3.77
+central shaft,122,513,45,0.9,3.66
+central shaft,123,506,43,0.87,3.67
+central shaft,123,521,43,0.99,3.79
+central shaft,125,513,47,0.96,3.6
+central shaft,126,507,46,1.0,3.72
+central shaft,125,523,47,0.92,3.72
+central shaft,122,529,46,0.93,3.44
+central shaft,121,512,46,0.82,3.43
+central shaft,126,510,41,0.84,3.59
+central shaft,130,526,44,0.87,3.45
+central shaft,128,521,47,0.88,3.5
+central shaft,129,517,41,0.98,3.68
+central shaft,121,505,45,0.98,3.5
+central shaft,122,515,44,0.98,3.73
+central shaft,127,522,43,0.87,3.55
+central shaft,125,521,43,0.93,3.71
+central shaft,129,523,44,0.98,3.43
+central shaft,121,524,45,0.82,3.61
+central shaft,121,528,43,0.93,3.55
+central shaft,128,505,47,0.86,3.42
+central shaft,127,523,46,0.86,3.76
+central shaft,123,513,41,0.98,3.57
+central shaft,121,518,44,0.98,3.47
+central shaft,126,512,43,0.97,3.56
+central shaft,126,510,45,0.8,3.76
+central shaft,130,514,41,0.84,3.66
+central shaft,124,515,41,0.86,3.8
+central shaft,120,517,42,0.93,3.77
+central shaft,123,514,43,0.94,3.68
+central shaft,129,509,43,0.97,3.45
+central shaft,122,506,47,0.91,3.42
+central shaft,121,505,45,0.85,3.53
+central shaft,126,511,47,1.0,3.5
+central shaft,122,500,44,0.91,3.52
+central shaft,129,517,46,0.9,3.71
+central shaft,126,512,46,0.89,3.68
+central shaft,129,521,47,0.87,3.53
+central shaft,120,507,43,1.0,3.55
+central shaft,122,510,44,0.95,3.43
+central shaft,127,511,47,0.98,3.5
+central shaft,125,514,42,0.86,3.59
+central shaft,123,510,45,0.93,3.45
+central shaft,120,517,47,0.99,3.59
+central shaft,124,515,41,0.86,3.61
+central shaft,127,505,41,0.89,3.57
+central shaft,130,510,47,0.94,3.63
+central shaft,121,517,43,0.8,3.53
+central shaft,122,519,42,0.81,3.56
+central shaft,123,528,44,0.8,3.45
+central shaft,127,513,46,0.99,3.65
+central shaft,126,506,44,0.8,3.52
+central shaft,127,530,43,0.95,3.45
+central shaft,121,513,44,0.88,3.73
+central shaft,124,515,43,0.86,3.43
+central shaft,128,502,46,0.95,3.75
+central shaft,121,506,47,0.88,3.48
+central shaft,130,515,45,0.94,3.78
+central shaft,122,503,44,0.85,3.52
+central shaft,125,516,45,0.89,3.69
+central shaft,127,521,44,0.99,3.5
+central shaft,120,527,41,0.92,3.6
+central shaft,120,511,41,0.81,3.62
+central shaft,120,525,47,0.97,3.44
+central shaft,125,528,47,0.89,3.73
+central shaft,125,525,47,0.99,3.74
+central shaft,124,516,42,0.95,3.47
+central shaft,125,506,47,0.83,3.63
+central shaft,122,515,47,0.81,3.56
+central shaft,124,500,47,0.88,3.41
+central shaft,126,520,43,0.85,3.75
+central shaft,124,512,45,0.98,3.66
+central shaft,123,514,45,0.83,3.66
+central shaft,123,509,44,0.93,3.48
+central shaft,125,510,44,0.82,3.67
+central shaft,126,518,46,0.94,3.65
+central shaft,128,527,41,0.81,3.62
+central shaft,123,526,44,0.95,3.56
+central shaft,122,502,45,0.9,3.72
+central shaft,122,520,47,0.99,3.59
+central shaft,121,520,41,0.89,3.41
+central shaft,125,530,44,0.87,3.75
+central shaft,124,509,42,0.82,3.57
+central shaft,120,501,41,0.84,3.66
+central shaft,126,500,45,0.96,3.61
+central shaft,130,521,42,0.83,3.53
+central shaft,126,511,47,0.98,3.76
+central shaft,125,506,43,0.94,3.56
+central shaft,125,503,45,0.93,3.72
+pulley,122,510,41,0.79,3.38
+pulley,123,503,42,0.77,3.37
+pulley,123,507,39,0.86,3.57
+pulley,123,497,38,0.82,3.23
+pulley,120,512,41,0.87,3.38
+pulley,125,506,38,0.83,3.29
+pulley,121,513,39,0.75,3.34
+pulley,124,512,41,0.81,3.27
+pulley,125,501,39,0.86,3.48
+pulley,125,509,38,0.77,3.22
+pulley,120,509,41,0.74,3.26
+pulley,125,499,39,0.87,3.39
+pulley,119,503,40,0.85,3.5
+pulley,122,515,39,0.81,3.56
+pulley,116,514,40,0.7,3.3
+pulley,117,512,38,0.83,3.26
+pulley,117,498,41,0.73,3.57
+pulley,122,505,40,0.8,3.37
+pulley,124,496,38,0.9,3.35
+pulley,115,501,39,0.79,3.36
+pulley,119,511,40,0.85,3.59
+pulley,115,512,42,0.88,3.41
+pulley,122,497,41,0.87,3.28
+pulley,120,515,39,0.75,3.22
+pulley,115,506,39,0.88,3.53
+pulley,116,510,42,0.87,3.5
+pulley,125,505,38,0.76,3.56
+pulley,125,505,38,0.86,3.55
+pulley,116,497,38,0.74,3.52
+pulley,121,495,41,0.78,3.43
+pulley,122,507,40,0.82,3.41
+pulley,117,504,39,0.89,3.21
+pulley,122,502,38,0.73,3.58
+pulley,123,512,42,0.84,3.38
+pulley,118,510,42,0.85,3.28
+pulley,115,504,42,0.7,3.45
+pulley,119,511,42,0.75,3.49
+pulley,118,500,40,0.79,3.53
+pulley,119,514,41,0.89,3.48
+pulley,123,503,41,0.72,3.33
+pulley,125,505,38,0.72,3.5
+pulley,124,514,38,0.85,3.22
+pulley,119,513,38,0.82,3.44
+pulley,119,505,39,0.86,3.45
+pulley,123,507,42,0.76,3.58
+pulley,121,513,38,0.89,3.56
+pulley,117,510,42,0.81,3.33
+pulley,121,508,42,0.7,3.36
+pulley,123,515,39,0.78,3.2
+pulley,118,507,40,0.74,3.27
+pulley,115,506,38,0.75,3.36
+pulley,123,496,39,0.89,3.21
+pulley,125,508,38,0.89,3.36
+pulley,117,506,41,0.71,3.21
+pulley,115,504,40,0.85,3.31
+pulley,122,497,42,0.87,3.28
+pulley,119,511,39,0.72,3.49
+pulley,117,509,38,0.89,3.21
+pulley,117,495,41,0.83,3.58
+pulley,121,506,42,0.78,3.33
+pulley,120,506,42,0.74,3.58
+pulley,121,499,39,0.74,3.4
+pulley,119,499,41,0.83,3.37
+pulley,115,502,41,0.76,3.28
+pulley,118,498,40,0.89,3.35
+pulley,116,501,38,0.8,3.52
+pulley,117,502,42,0.8,3.25
+pulley,124,496,41,0.79,3.25
+pulley,123,506,40,0.86,3.2
+pulley,124,515,39,0.71,3.41
+pulley,124,495,40,0.81,3.29
+pulley,124,510,42,0.78,3.5
+pulley,117,499,38,0.86,3.47
+pulley,122,505,39,0.71,3.6
+pulley,120,507,39,0.77,3.5
+pulley,121,503,40,0.73,3.48
+pulley,115,498,38,0.86,3.55
+pulley,125,503,38,0.72,3.24
+pulley,118,508,38,0.88,3.32
+pulley,123,504,40,0.74,3.43
+pulley,117,506,40,0.89,3.56
+pulley,120,508,41,0.71,3.4
+pulley,118,505,40,0.75,3.48
+pulley,121,500,39,0.72,3.58
+pulley,122,497,39,0.86,3.25
+pulley,122,508,40,0.77,3.37
+pulley,123,514,41,0.85,3.58
+pulley,123,500,38,0.76,3.55
+pulley,123,503,42,0.83,3.57
+pulley,122,511,39,0.84,3.44
+pulley,116,503,38,0.82,3.58
+pulley,124,504,39,0.79,3.35
+pulley,124,505,38,0.73,3.32
+pulley,124,503,41,0.78,3.46
+pulley,117,496,41,0.81,3.26
+pulley,118,511,41,0.74,3.46
+pulley,122,498,39,0.81,3.46
+pulley,116,505,42,0.85,3.3
+pulley,121,502,41,0.72,3.58
+pulley,120,496,39,0.74,3.26
+pulley,122,503,41,0.85,3.31
+pulley,117,496,39,0.88,3.3
+pulley,123,500,42,0.77,3.44
+pulley,120,507,38,0.75,3.6
+pulley,125,513,40,0.72,3.49
+pulley,115,496,42,0.76,3.37
+pulley,124,514,42,0.89,3.48
+pulley,118,515,39,0.81,3.3
+pulley,115,514,39,0.74,3.56
+pulley,117,495,41,0.77,3.2
+pulley,117,497,38,0.84,3.46
+pulley,117,515,39,0.83,3.56
+pulley,124,498,39,0.73,3.37
+pulley,119,511,42,0.83,3.24
+pulley,116,502,42,0.74,3.54
+pulley,125,507,38,0.81,3.36
+pulley,119,503,42,0.85,3.41
+pulley,120,502,38,0.81,3.38
+pulley,120,508,38,0.87,3.59
+pulley,115,508,42,0.73,3.36
+pulley,116,499,42,0.89,3.29
+pulley,119,502,39,0.85,3.32
+pulley,124,502,39,0.82,3.56
+pulley,116,515,41,0.87,3.36
+pulley,118,499,39,0.85,3.24
+pulley,125,500,39,0.84,3.27
+pulley,125,500,42,0.81,3.24
+pulley,115,496,38,0.9,3.47
+pulley,119,498,39,0.83,3.45
+pulley,117,512,39,0.86,3.57
+pulley,124,500,41,0.77,3.28
+pulley,115,501,39,0.81,3.59
+pulley,118,502,40,0.88,3.43
+pulley,120,514,38,0.78,3.57
+pulley,123,496,41,0.77,3.31
+pulley,120,515,42,0.84,3.27
+pulley,116,504,38,0.84,3.48
+pulley,118,506,42,0.86,3.41
+pulley,117,505,42,0.85,3.33
+pulley,118,508,38,0.75,3.38
+pulley,115,499,41,0.79,3.54
+pulley,120,506,40,0.81,3.37
+pulley,117,504,41,0.84,3.38
+pulley,121,500,40,0.77,3.31
+pulley,119,506,40,0.87,3.48
+pulley,117,500,40,0.87,3.37
+pulley,124,509,40,0.88,3.58
+pulley,124,510,40,0.86,3.46
+pulley,119,510,41,0.84,3.57
+pulley,117,496,38,0.77,3.33
+pulley,116,514,40,0.73,3.58
+pulley,120,514,38,0.89,3.24
+pulley,119,504,40,0.89,3.35
+pulley,116,497,42,0.7,3.52
+pulley,116,514,41,0.89,3.56
+pulley,115,511,40,0.71,3.26
+pulley,116,512,42,0.77,3.4
+pulley,121,498,42,0.82,3.33
+pulley,123,509,42,0.9,3.21
+pulley,122,495,42,0.72,3.58
+pulley,125,512,38,0.81,3.46
+pulley,124,503,42,0.87,3.31
+pulley,120,509,40,0.76,3.52
+pulley,118,501,38,0.89,3.22
+pulley,125,500,40,0.87,3.28
+pulley,120,501,42,0.85,3.56
+pulley,116,507,39,0.82,3.41
+pulley,122,498,39,0.89,3.24
+pulley,116,502,38,0.74,3.44
+pulley,118,497,41,0.77,3.36
+pulley,120,497,38,0.83,3.33
+pulley,121,509,39,0.88,3.22
+pulley,118,508,40,0.71,3.27
+pulley,120,500,41,0.83,3.22
+pulley,115,495,39,0.7,3.39
+pulley,119,506,41,0.84,3.39
+pulley,120,497,39,0.89,3.27
+pulley,121,510,39,0.72,3.24
+pulley,117,504,40,0.83,3.57
+pulley,124,500,42,0.77,3.23
+pulley,122,511,38,0.79,3.43
+pulley,125,505,42,0.87,3.53
+pulley,116,509,39,0.89,3.29
+pulley,123,497,38,0.87,3.54
+pulley,119,513,41,0.83,3.21
+pulley,115,496,42,0.77,3.29
+pulley,119,510,40,0.82,3.47
+pulley,122,513,42,0.8,3.46
+pulley,119,505,40,0.74,3.23
+pulley,117,507,40,0.8,3.4
+pulley,123,509,41,0.9,3.58
+pulley,123,507,42,0.9,3.37
+pulley,116,503,39,0.8,3.44
+pulley,125,515,41,0.73,3.35
+pulley,119,511,40,0.83,3.58
+pulley,122,515,38,0.78,3.53
+pulley,117,502,39,0.81,3.4
+pulley,116,504,40,0.77,3.28
+pulley,125,505,42,0.81,3.4
+pulley,119,507,40,0.86,3.26
+pulley,118,506,38,0.8,3.29
+drive motor,123,526,44,1.1,3.8
+drive motor,122,533,46,1.08,3.86
+drive motor,126,547,48,1.12,3.99
+drive motor,127,525,44,1.13,3.62
+drive motor,125,532,47,1.01,3.88
+drive motor,123,526,43,1.19,3.62
+drive motor,130,544,48,1.0,3.98
+drive motor,130,531,43,1.01,3.69
+drive motor,121,548,45,1.1,3.66
+drive motor,124,547,43,1.14,3.64
+drive motor,128,535,43,1.17,3.68
+drive motor,121,544,48,1.05,3.82
+drive motor,129,541,46,1.1,3.74
+drive motor,120,533,46,1.19,3.81
+drive motor,125,548,43,1.1,3.99
+drive motor,130,541,47,1.06,3.6
+drive motor,129,532,44,1.18,3.84
+drive motor,125,525,43,1.08,3.83
+drive motor,123,539,47,1.03,3.67
+drive motor,123,526,47,1.02,3.86
+drive motor,123,526,47,1.2,3.7
+drive motor,129,535,44,1.07,3.81
+drive motor,127,536,46,1.13,3.84
+drive motor,124,543,48,1.03,3.82
+drive motor,125,544,46,1.07,3.98
+drive motor,122,530,44,1.12,3.75
+drive motor,120,529,48,1.1,3.63
+drive motor,120,523,45,1.07,3.61
+drive motor,124,535,43,1.09,3.83
+drive motor,126,524,44,1.01,3.85
+drive motor,125,523,45,1.08,3.78
+drive motor,122,546,45,1.17,3.75
+drive motor,120,544,47,1.08,3.95
+drive motor,122,535,44,1.06,3.65
+drive motor,121,528,46,1.08,3.94
+drive motor,125,521,47,1.06,3.89
+drive motor,128,547,46,1.16,3.77
+drive motor,123,525,43,1.13,3.91
+drive motor,130,523,47,1.0,3.93
+drive motor,125,532,46,1.01,3.67
+drive motor,128,523,46,1.03,3.64
+drive motor,122,523,47,1.11,3.94
+drive motor,130,527,45,1.01,3.97
+drive motor,121,540,46,1.04,3.82
+drive motor,127,536,48,1.16,3.79
+drive motor,127,533,44,1.17,3.92
+drive motor,124,544,47,1.14,3.81
+drive motor,126,522,43,1.06,3.65
+drive motor,122,550,48,1.19,3.86
+drive motor,124,530,48,1.05,3.83
+drive motor,129,546,47,1.18,3.62
+drive motor,122,540,44,1.06,3.68
+drive motor,129,526,46,1.02,3.81
+drive motor,125,543,48,1.03,3.84
+drive motor,126,525,48,1.0,3.62
+drive motor,123,539,47,1.14,3.97
+drive motor,123,523,43,1.03,3.72
+drive motor,126,543,47,1.17,3.76
+drive motor,127,520,46,1.05,3.98
+drive motor,122,520,47,1.08,3.93
+drive motor,128,523,43,1.18,3.79
+drive motor,129,548,48,1.19,3.81
+drive motor,120,549,46,1.15,3.8
+drive motor,127,530,46,1.15,3.98
+drive motor,128,532,48,1.1,3.86
+drive motor,123,523,48,1.1,3.92
+drive motor,122,531,46,1.12,3.95
+drive motor,123,536,48,1.05,3.89
+drive motor,127,523,44,1.17,3.75
+drive motor,124,522,48,1.08,3.97
+drive motor,120,524,47,1.17,3.76
+drive motor,122,536,44,1.02,3.69
+drive motor,123,540,43,1.13,3.67
+drive motor,122,524,43,1.05,3.66
+drive motor,130,525,45,1.16,3.73
+drive motor,125,534,46,1.17,3.68
+drive motor,130,530,43,1.16,3.81
+drive motor,130,542,47,1.14,3.62
+drive motor,122,546,45,1.01,3.64
+drive motor,121,541,48,1.02,3.67
+drive motor,123,533,48,1.14,3.88
+drive motor,123,531,47,1.05,3.69
+drive motor,127,528,45,1.19,3.84
+drive motor,126,523,47,1.2,3.62
+drive motor,130,543,44,1.11,3.95
+drive motor,130,539,46,1.07,3.6
+drive motor,124,520,47,1.17,3.84
+drive motor,126,545,43,1.13,3.74
+drive motor,128,549,46,1.14,3.73
+drive motor,123,525,44,1.02,3.97
+drive motor,126,543,44,1.07,3.84
+drive motor,130,524,44,1.18,3.9
+drive motor,130,543,45,1.11,3.85
+drive motor,130,543,45,1.13,3.68
+drive motor,121,535,46,1.15,3.86
+drive motor,128,542,47,1.13,3.76
+drive motor,127,546,47,1.02,3.87
+drive motor,121,542,48,1.05,3.97
+drive motor,121,542,48,1.03,3.79
+drive motor,127,528,46,1.1,3.95
+drive motor,127,532,44,1.18,3.86
+drive motor,127,532,43,1.01,3.72
+drive motor,130,545,48,1.17,3.68
+drive motor,125,521,47,1.01,3.8
+drive motor,120,528,46,1.14,3.63
+drive motor,120,533,44,1.09,3.68
+drive motor,129,532,45,1.11,3.76
+drive motor,128,534,47,1.13,3.62
+drive motor,123,522,44,1.15,3.88
+drive motor,130,544,45,1.17,3.77
+drive motor,122,530,47,1.06,3.77
+drive motor,128,537,48,1.09,3.76
+drive motor,125,536,48,1.12,3.98
+drive motor,127,539,43,1.07,3.8
+drive motor,122,546,48,1.05,3.63
+drive motor,121,548,47,1.1,3.82
+drive motor,120,522,46,1.1,3.79
+drive motor,130,534,45,1.04,3.83
+drive motor,126,534,44,1.06,3.65
+drive motor,126,533,47,1.13,3.71
+drive motor,122,538,45,1.16,3.66
+drive motor,126,544,45,1.05,3.82
+drive motor,123,542,44,1.01,3.89
+drive motor,125,533,48,1.15,3.77
+drive motor,124,550,44,1.11,3.85
+drive motor,121,545,46,1.06,3.98
+drive motor,126,531,43,1.02,3.64
+drive motor,120,528,46,1.16,3.92
+drive motor,128,531,48,1.07,3.8
+drive motor,122,528,45,1.1,3.66
+drive motor,127,544,46,1.08,3.66
+drive motor,125,523,48,1.01,3.98
+drive motor,130,526,43,1.1,3.85
+drive motor,128,547,46,1.05,3.8
+drive motor,123,544,46,1.05,4.0
+drive motor,121,547,48,1.1,3.69
+drive motor,123,550,43,1.14,3.95
+drive motor,124,541,46,1.01,3.61
+drive motor,123,547,44,1.17,3.6
+drive motor,129,533,45,1.16,3.99
+drive motor,125,530,48,1.14,3.61
+drive motor,124,547,45,1.03,3.83
+drive motor,124,521,47,1.03,3.71
+drive motor,126,527,46,1.19,3.96
+drive motor,130,537,45,1.05,3.61
+drive motor,122,528,47,1.12,3.79
+drive motor,122,546,43,1.18,3.89
+drive motor,123,536,45,1.06,3.84
+drive motor,120,548,48,1.11,3.91
+drive motor,122,550,48,1.18,3.72
+drive motor,128,536,47,1.07,3.76
+drive motor,122,522,46,1.08,3.9
+drive motor,127,543,43,1.08,3.65
+drive motor,126,529,45,1.14,3.62
+drive motor,130,543,45,1.11,3.84
+drive motor,127,527,46,1.18,3.99
+drive motor,120,534,48,1.18,3.98
+drive motor,124,538,43,1.09,3.86
+drive motor,130,540,46,1.04,3.87
+drive motor,125,541,43,1.19,3.98
+drive motor,120,529,43,1.17,3.8
+drive motor,122,533,47,1.02,3.87
+drive motor,120,529,44,1.03,3.78
+drive motor,123,531,46,1.08,3.99
+drive motor,125,540,46,1.14,3.72
+drive motor,124,549,48,1.1,3.98
+drive motor,127,526,44,1.03,3.82
+drive motor,128,536,44,1.01,3.86
+drive motor,128,535,46,1.18,3.93
+drive motor,124,547,43,1.16,3.96
+drive motor,124,548,46,1.12,3.76
+drive motor,130,540,47,1.16,3.93
+drive motor,121,531,48,1.09,3.82
+drive motor,124,520,45,1.01,3.79
+drive motor,126,545,44,1.08,3.86
+drive motor,120,522,48,1.16,3.69
+drive motor,123,525,44,1.13,3.95
+drive motor,121,539,48,1.14,3.88
+drive motor,126,527,47,1.12,3.67
+drive motor,128,550,48,1.16,3.61
+drive motor,126,549,48,1.13,3.87
+drive motor,127,543,44,1.17,3.95
+drive motor,122,549,47,1.09,3.93
+drive motor,124,534,45,1.1,3.73
+drive motor,124,539,46,1.16,3.97
+drive motor,125,520,46,1.13,3.75
+drive motor,121,540,46,1.1,3.95
+drive motor,125,536,45,1.16,3.85
+drive motor,128,533,43,1.07,3.69
+drive motor,126,545,46,1.2,3.86
+drive motor,129,537,46,1.02,3.83
+drive motor,120,549,46,1.06,3.67
+drive motor,129,523,47,1.17,3.71
+drive motor,129,525,48,1.0,3.96
+drive motor,125,532,47,1.18,3.63
+drive motor,130,539,43,1.05,3.64
+drive motor,120,524,48,1.06,3.91
+drive motor,128,533,45,1.2,3.7
+drive motor,121,547,48,1.13,3.98
+drive motor,122,536,46,1.1,3.92
+drive motor,123,542,48,1.01,3.66
+idler roller fault,120,507,43,0.87,3.46
+idler roller fault,121,505,40,0.89,3.35
+idler roller fault,119,517,41,0.87,3.37
+idler roller fault,118,501,44,0.89,3.32
+idler roller fault,125,503,43,0.85,3.38
+idler roller fault,118,513,44,0.88,3.43
+idler roller fault,125,512,44,0.86,3.32
+idler roller fault,125,519,44,0.85,3.36
+idler roller fault,121,511,43,0.83,3.42
+idler roller fault,116,515,43,0.81,3.38
+idler roller fault,117,520,44,0.9,3.43
+idler roller fault,120,503,42,0.83,3.33
+idler roller fault,116,520,43,0.88,3.44
+idler roller fault,122,504,43,0.87,3.3
+idler roller fault,122,501,42,0.84,3.43
+idler roller fault,115,503,41,0.84,3.48
+idler roller fault,123,517,40,0.83,3.32
+idler roller fault,122,518,42,0.85,3.35
+idler roller fault,121,517,42,0.81,3.5
+idler roller fault,120,504,40,0.89,3.42
+idler roller fault,123,502,41,0.84,3.34
+idler roller fault,117,516,41,0.82,3.47
+idler roller fault,123,510,42,0.81,3.35
+idler roller fault,121,520,43,0.9,3.48
+idler roller fault,125,502,42,0.88,3.31
+idler roller fault,123,502,40,0.83,3.34
+idler roller fault,122,506,42,0.81,3.38
+idler roller fault,116,515,42,0.82,3.35
+idler roller fault,116,518,40,0.89,3.36
+idler roller fault,122,511,42,0.85,3.3
+idler roller fault,120,517,43,0.84,3.47
+idler roller fault,115,509,41,0.85,3.32
+idler roller fault,118,511,40,0.87,3.42
+idler roller fault,120,515,41,0.83,3.43
+idler roller fault,120,500,42,0.83,3.37
+idler roller fault,124,508,41,0.8,3.42
+idler roller fault,115,502,41,0.88,3.3
+idler roller fault,124,514,44,0.87,3.3
+idler roller fault,120,501,41,0.89,3.34
+idler roller fault,124,513,43,0.84,3.42
+idler roller fault,115,520,41,0.88,3.4
+idler roller fault,123,509,43,0.88,3.5
+idler roller fault,120,510,41,0.84,3.38
+idler roller fault,115,507,40,0.86,3.3
+idler roller fault,118,520,44,0.89,3.36
+idler roller fault,115,520,43,0.81,3.36
+idler roller fault,120,502,42,0.88,3.38
+idler roller fault,125,502,41,0.82,3.49
+idler roller fault,120,500,43,0.83,3.4
+idler roller fault,115,513,43,0.84,3.5
+idler roller fault,116,512,44,0.9,3.43
+idler roller fault,117,514,43,0.86,3.47
+idler roller fault,117,515,40,0.89,3.46
+idler roller fault,115,515,42,0.84,3.41
+idler roller fault,118,517,42,0.9,3.42
+idler roller fault,124,507,42,0.83,3.38
+idler roller fault,122,520,43,0.82,3.32
+idler roller fault,115,502,42,0.9,3.4
+idler roller fault,118,505,42,0.82,3.4
+idler roller fault,123,512,40,0.82,3.38
+idler roller fault,115,516,40,0.83,3.4
+idler roller fault,116,520,40,0.89,3.42
+idler roller fault,125,511,44,0.82,3.41
+idler roller fault,121,503,43,0.83,3.5
+idler roller fault,124,504,42,0.82,3.42
+idler roller fault,122,511,40,0.83,3.36
+idler roller fault,118,502,40,0.9,3.34
+idler roller fault,124,502,43,0.84,3.46
+idler roller fault,122,513,43,0.89,3.49
+idler roller fault,119,513,44,0.9,3.32
+idler roller fault,116,516,44,0.81,3.44
+idler roller fault,118,509,40,0.8,3.48
+idler roller fault,121,509,44,0.81,3.34
+idler roller fault,115,506,40,0.84,3.39
+idler roller fault,116,511,40,0.89,3.34
+idler roller fault,116,508,43,0.86,3.49
+idler roller fault,117,516,42,0.89,3.35
+idler roller fault,122,505,42,0.84,3.32
+idler roller fault,122,515,44,0.87,3.47
+idler roller fault,117,502,43,0.88,3.5
+idler roller fault,118,501,40,0.87,3.38
+idler roller fault,120,517,42,0.84,3.32
+idler roller fault,117,509,42,0.82,3.41
+idler roller fault,118,512,44,0.84,3.43
+idler roller fault,124,509,40,0.82,3.41
+idler roller fault,119,501,42,0.85,3.43
+idler roller fault,125,518,43,0.88,3.34
+idler roller fault,120,509,43,0.81,3.3
+idler roller fault,118,506,41,0.82,3.41
+idler roller fault,115,512,42,0.81,3.46
+idler roller fault,120,503,40,0.88,3.49
+idler roller fault,120,514,40,0.81,3.36
+idler roller fault,115,514,44,0.86,3.46
+idler roller fault,119,500,42,0.81,3.32
+idler roller fault,125,508,43,0.83,3.48
+idler roller fault,125,520,43,0.84,3.42
+idler roller fault,116,520,41,0.85,3.45
+idler roller fault,118,504,40,0.86,3.49
+idler roller fault,115,504,43,0.88,3.37
+idler roller fault,124,508,42,0.82,3.37
+idler roller fault,116,503,41,0.87,3.42
+idler roller fault,122,507,42,0.81,3.3
+idler roller fault,116,503,41,0.86,3.48
+idler roller fault,121,518,44,0.87,3.38
+idler roller fault,123,502,42,0.87,3.33
+idler roller fault,123,517,41,0.88,3.32
+idler roller fault,115,508,43,0.88,3.38
+idler roller fault,117,504,44,0.89,3.48
+idler roller fault,121,516,44,0.85,3.34
+idler roller fault,116,509,40,0.82,3.48
+idler roller fault,125,511,44,0.85,3.39
+idler roller fault,124,509,42,0.83,3.41
+idler roller fault,116,505,42,0.82,3.5
+idler roller fault,120,506,44,0.88,3.41
+idler roller fault,118,520,43,0.81,3.48
+idler roller fault,121,518,43,0.88,3.4
+idler roller fault,125,506,41,0.88,3.38
+idler roller fault,115,519,41,0.87,3.35
+idler roller fault,119,509,42,0.81,3.45
+idler roller fault,125,516,42,0.9,3.43
+idler roller fault,124,501,44,0.85,3.42
+idler roller fault,119,508,43,0.84,3.43
+idler roller fault,115,510,42,0.89,3.37
+idler roller fault,116,519,44,0.87,3.31
+idler roller fault,125,511,44,0.9,3.38
+idler roller fault,122,508,42,0.8,3.34
+idler roller fault,125,518,43,0.81,3.39
+idler roller fault,124,502,41,0.86,3.35
+idler roller fault,120,501,44,0.83,3.47
+idler roller fault,120,502,44,0.87,3.32
+idler roller fault,119,512,42,0.84,3.34
+idler roller fault,124,501,42,0.87,3.48
+idler roller fault,121,515,43,0.83,3.49
+idler roller fault,123,501,43,0.81,3.42
+idler roller fault,119,520,44,0.86,3.46
+idler roller fault,116,501,44,0.86,3.37
+idler roller fault,116,510,43,0.85,3.34
+idler roller fault,123,508,41,0.8,3.36
+idler roller fault,115,510,40,0.83,3.32
+idler roller fault,123,517,42,0.89,3.35
+idler roller fault,122,513,40,0.9,3.38
+idler roller fault,118,507,43,0.81,3.49
+idler roller fault,117,506,44,0.87,3.41
+idler roller fault,121,504,42,0.82,3.47
+idler roller fault,124,515,42,0.84,3.45
+idler roller fault,122,518,42,0.82,3.39
+idler roller fault,122,503,42,0.87,3.38
+idler roller fault,124,516,42,0.88,3.32
+idler roller fault,118,500,41,0.81,3.43
+idler roller fault,124,509,41,0.85,3.4
+idler roller fault,118,516,44,0.88,3.37
+idler roller fault,121,500,43,0.9,3.4
+idler roller fault,117,518,44,0.9,3.34
+idler roller fault,115,514,43,0.8,3.41
+idler roller fault,119,510,44,0.82,3.37
+idler roller fault,122,505,44,0.9,3.36
+idler roller fault,124,519,44,0.9,3.4
+idler roller fault,118,508,40,0.87,3.38
+idler roller fault,122,520,41,0.86,3.38
+idler roller fault,118,519,44,0.84,3.49
+idler roller fault,124,514,43,0.86,3.41
+idler roller fault,123,514,41,0.85,3.42
+idler roller fault,117,520,42,0.83,3.46
+idler roller fault,117,505,42,0.89,3.38
+idler roller fault,125,500,44,0.84,3.34
+idler roller fault,118,506,44,0.88,3.31
+idler roller fault,117,520,42,0.8,3.47
+idler roller fault,115,503,44,0.81,3.44
+idler roller fault,117,504,44,0.8,3.35
+idler roller fault,125,513,43,0.88,3.35
+idler roller fault,125,507,44,0.87,3.47
+idler roller fault,120,516,44,0.9,3.32
+idler roller fault,123,513,41,0.85,3.4
+idler roller fault,118,519,43,0.83,3.47
+idler roller fault,123,516,44,0.81,3.38
+idler roller fault,123,513,42,0.82,3.44
+idler roller fault,116,500,41,0.82,3.49
+idler roller fault,115,509,41,0.89,3.32
+idler roller fault,119,503,42,0.82,3.42
+idler roller fault,121,501,44,0.83,3.41
+idler roller fault,121,520,40,0.81,3.47
+idler roller fault,116,516,43,0.84,3.39
+idler roller fault,121,507,44,0.85,3.37
+idler roller fault,116,515,40,0.85,3.36
+idler roller fault,123,519,41,0.86,3.38
+idler roller fault,118,516,42,0.89,3.41
+idler roller fault,121,506,41,0.9,3.36
+idler roller fault,122,510,41,0.88,3.35
+idler roller fault,116,501,42,0.82,3.4
+idler roller fault,117,518,41,0.88,3.44
+idler roller fault,116,507,41,0.81,3.32
+idler roller fault,117,502,41,0.86,3.49
+idler roller fault,124,500,40,0.9,3.38
+idler roller fault,119,503,40,0.89,3.36
+idler roller fault,121,506,41,0.84,3.47
+idler roller fault,120,504,43,0.83,3.3
+idler roller fault,125,520,40,0.82,3.36
+idler roller fault,125,511,42,0.85,3.43
+idler roller fault,121,505,42,0.83,3.5
+idler roller fault,124,516,44,0.9,3.37
+idler roller fault,125,520,41,0.89,3.35
+belt slippage,117,486,36,0.76,3.28
+belt slippage,116,473,40,0.77,3.23
+belt slippage,118,487,35,0.77,3.21
+belt slippage,114,475,37,0.74,3.21
+belt slippage,112,478,35,0.78,3.14
+belt slippage,118,477,40,0.74,3.28
+belt slippage,116,485,40,0.75,3.26
+belt slippage,120,488,39,0.78,3.27
+belt slippage,119,476,38,0.74,3.18
+belt slippage,118,483,38,0.78,3.2
+belt slippage,115,470,40,0.73,3.1
+belt slippage,110,488,39,0.75,3.24
+belt slippage,116,489,38,0.74,3.28
+belt slippage,116,474,37,0.78,3.25
+belt slippage,120,483,39,0.76,3.18
+belt slippage,110,473,37,0.79,3.23
+belt slippage,116,472,40,0.78,3.1
+belt slippage,110,480,40,0.74,3.25
+belt slippage,113,488,36,0.76,3.29
+belt slippage,112,485,40,0.71,3.24
+belt slippage,113,477,39,0.77,3.24
+belt slippage,117,480,36,0.78,3.24
+belt slippage,119,470,40,0.71,3.13
+belt slippage,116,471,36,0.8,3.13
+belt slippage,116,480,38,0.79,3.24
+belt slippage,117,484,36,0.77,3.21
+belt slippage,115,480,39,0.75,3.15
+belt slippage,116,489,38,0.7,3.21
+belt slippage,114,482,36,0.77,3.13
+belt slippage,114,473,39,0.72,3.17
+belt slippage,111,477,37,0.71,3.17
+belt slippage,116,489,37,0.7,3.19
+belt slippage,114,485,37,0.79,3.25
+belt slippage,113,486,40,0.76,3.18
+belt slippage,118,471,35,0.76,3.13
+belt slippage,117,490,36,0.71,3.29
+belt slippage,110,487,35,0.71,3.11
+belt slippage,114,484,37,0.72,3.29
+belt slippage,110,484,38,0.74,3.14
+belt slippage,117,474,38,0.74,3.12
+belt slippage,114,474,36,0.77,3.25
+belt slippage,113,481,38,0.7,3.11
+belt slippage,110,481,39,0.76,3.14
+belt slippage,118,478,39,0.79,3.13
+belt slippage,117,476,38,0.79,3.25
+belt slippage,116,486,36,0.77,3.17
+belt slippage,117,484,37,0.71,3.22
+belt slippage,110,481,38,0.74,3.29
+belt slippage,112,472,40,0.73,3.1
+belt slippage,111,479,40,0.7,3.29
+belt slippage,115,473,36,0.77,3.28
+belt slippage,110,483,39,0.7,3.15
+belt slippage,118,490,35,0.79,3.15
+belt slippage,114,487,36,0.76,3.12
+belt slippage,112,478,35,0.74,3.12
+belt slippage,118,474,37,0.79,3.26
+belt slippage,110,489,39,0.8,3.21
+belt slippage,119,480,35,0.74,3.17
+belt slippage,115,487,40,0.76,3.12
+belt slippage,113,473,36,0.73,3.21
+belt slippage,111,471,37,0.74,3.29
+belt slippage,119,489,39,0.72,3.17
+belt slippage,112,473,38,0.76,3.25
+belt slippage,111,472,40,0.72,3.25
+belt slippage,113,489,36,0.79,3.24
+belt slippage,114,488,40,0.71,3.1
+belt slippage,116,470,40,0.77,3.22
+belt slippage,116,485,36,0.72,3.3
+belt slippage,114,480,36,0.75,3.11
+belt slippage,119,479,36,0.79,3.25
+belt slippage,114,475,40,0.72,3.27
+belt slippage,111,487,36,0.76,3.28
+belt slippage,113,472,40,0.77,3.24
+belt slippage,120,487,38,0.77,3.11
+belt slippage,117,485,39,0.74,3.19
+belt slippage,119,485,40,0.74,3.28
+belt slippage,115,481,35,0.7,3.25
+belt slippage,119,470,40,0.78,3.18
+belt slippage,110,490,35,0.74,3.16
+belt slippage,118,487,37,0.76,3.15
+belt slippage,112,483,37,0.74,3.19
+belt slippage,113,487,35,0.78,3.13
+belt slippage,114,480,37,0.76,3.21
+belt slippage,116,487,37,0.71,3.27
+belt slippage,114,487,37,0.72,3.1
+belt slippage,113,482,37,0.78,3.14
+belt slippage,120,485,36,0.78,3.27
+belt slippage,114,490,37,0.74,3.1
+belt slippage,119,481,38,0.73,3.24
+belt slippage,114,484,40,0.71,3.18
+belt slippage,119,490,36,0.74,3.2
+belt slippage,117,471,40,0.71,3.22
+belt slippage,112,485,38,0.71,3.12
+belt slippage,110,485,38,0.71,3.2
+belt slippage,111,475,40,0.72,3.29
+belt slippage,110,489,38,0.74,3.28
+belt slippage,113,470,39,0.79,3.21
+belt slippage,120,479,39,0.75,3.12
+belt slippage,120,472,38,0.74,3.21
+belt slippage,111,478,39,0.7,3.15
+belt slippage,115,483,35,0.73,3.14
+belt slippage,115,483,37,0.79,3.1
+belt slippage,116,471,38,0.78,3.19
+belt slippage,114,483,39,0.79,3.25
+belt slippage,112,470,39,0.75,3.14
+belt slippage,119,479,36,0.71,3.13
+belt slippage,117,489,37,0.8,3.16
+belt slippage,114,483,37,0.77,3.15
+belt slippage,113,485,40,0.71,3.29
+belt slippage,119,471,39,0.78,3.14
+belt slippage,120,477,40,0.77,3.2
+belt slippage,120,476,40,0.73,3.13
+belt slippage,118,488,39,0.71,3.23
+belt slippage,110,490,40,0.76,3.27
+belt slippage,116,483,39,0.71,3.19
+belt slippage,110,485,39,0.7,3.29
+belt slippage,110,475,40,0.75,3.21
+belt slippage,119,481,37,0.75,3.14
+belt slippage,115,487,40,0.78,3.26
+belt slippage,117,484,39,0.77,3.27
+belt slippage,118,479,40,0.76,3.23
+belt slippage,110,477,37,0.75,3.17
+belt slippage,112,475,39,0.71,3.12
+belt slippage,111,472,39,0.8,3.29
+belt slippage,114,470,35,0.75,3.16
+belt slippage,120,483,37,0.74,3.24
+belt slippage,112,474,35,0.72,3.13
+belt slippage,115,472,36,0.79,3.2
+belt slippage,112,483,35,0.72,3.27
+belt slippage,111,472,39,0.76,3.13
+belt slippage,115,484,37,0.77,3.28
+belt slippage,114,485,37,0.76,3.29
+belt slippage,119,475,35,0.74,3.25
+belt slippage,113,489,38,0.7,3.11
+belt slippage,119,472,40,0.72,3.17
+belt slippage,112,489,36,0.73,3.22
+belt slippage,115,485,40,0.77,3.12
+belt slippage,110,471,38,0.79,3.16
+belt slippage,115,483,36,0.74,3.16
+belt slippage,112,489,38,0.73,3.24
+belt slippage,110,479,38,0.74,3.14
+belt slippage,116,488,36,0.73,3.28
+belt slippage,115,482,40,0.78,3.21
+belt slippage,114,490,39,0.76,3.25
+belt slippage,111,479,40,0.77,3.17
+belt slippage,117,490,39,0.7,3.14
+belt slippage,113,473,39,0.74,3.23
+belt slippage,110,477,35,0.72,3.28
+belt slippage,114,471,37,0.74,3.22
+belt slippage,117,486,35,0.71,3.16
+belt slippage,114,478,35,0.76,3.28
+belt slippage,119,475,39,0.78,3.11
+belt slippage,115,486,35,0.75,3.24
+belt slippage,118,487,38,0.74,3.24
+belt slippage,114,487,39,0.73,3.13
+belt slippage,120,479,35,0.76,3.12
+belt slippage,115,479,39,0.78,3.26
+belt slippage,118,476,35,0.76,3.16
+belt slippage,110,471,39,0.79,3.27
+belt slippage,110,488,36,0.75,3.15
+belt slippage,111,478,39,0.79,3.24
+belt slippage,117,484,39,0.71,3.2
+belt slippage,111,483,38,0.72,3.16
+belt slippage,117,473,35,0.79,3.19
+belt slippage,111,486,35,0.73,3.15
+belt slippage,116,487,38,0.7,3.15
+belt slippage,120,484,35,0.7,3.25
+belt slippage,115,471,39,0.72,3.26
+belt slippage,111,489,37,0.75,3.27
+belt slippage,112,486,36,0.78,3.21
+belt slippage,118,478,38,0.76,3.27
+belt slippage,112,479,35,0.76,3.18
+belt slippage,116,476,35,0.78,3.27
+belt slippage,116,485,37,0.73,3.24
+belt slippage,111,490,39,0.73,3.16
+belt slippage,112,485,39,0.72,3.11
+belt slippage,112,473,37,0.75,3.21
+belt slippage,119,471,39,0.74,3.13
+belt slippage,114,478,40,0.78,3.24
+belt slippage,118,470,39,0.73,3.28
+belt slippage,117,489,35,0.73,3.13
+belt slippage,119,486,37,0.71,3.28
+belt slippage,117,488,36,0.72,3.13
+belt slippage,119,478,40,0.73,3.15
+belt slippage,118,478,36,0.75,3.26
+belt slippage,118,487,40,0.77,3.16
+belt slippage,116,470,39,0.71,3.2
+belt slippage,119,476,38,0.73,3.27
+belt slippage,119,472,35,0.74,3.13
+belt slippage,113,470,36,0.75,3.28
+belt slippage,110,488,37,0.8,3.12
+belt slippage,112,488,35,0.77,3.24
+belt slippage,110,478,39,0.76,3.21
+belt slippage,119,484,37,0.79,3.1
+belt slippage,116,478,35,0.78,3.24
+belt slippage,115,488,36,0.76,3.19
+belt slippage,118,489,40,0.75,3.15
+belt slippage,110,474,39,0.72,3.12
+belt slippage,120,477,37,0.75,3.22
+belt slippage,110,489,39,0.71,3.19
+belt slippage,118,479,40,0.74,3.29
+belt slippage,111,474,38,0.75,3.29
+belt slippage,111,490,35,0.77,3.15
+belt slippage,110,487,40,0.78,3.17

@@ -1,0 +1,2 @@
+Copy your actual conveyor_fault_dataset.csv into this backend folder and remove/ignore this text file.
+Expected relevant columns include Fault and Vibration (m/s²). The code detects the vibration column automatically.

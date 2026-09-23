@@ -1,0 +1,8 @@
+{
+  "name": "sih26008-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "cors": "^2.8.5", "csv-parser": "^3.2.0", "dotenv": "^16.4.5", "express": "^4.21.2", "twilio": "^5.3.4" }
+}

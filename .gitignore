@@ -1,0 +1,114 @@
+# ==========================================
+# Environment / Secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# Ignore .env files inside any subfolder
+**/.env
+**/.env.*
+!**/.env.example
+
+# ==========================================
+# Node.js
+# ==========================================
+node_modules/
+**/node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Frontend build files
+# ==========================================
+dist/
+**/dist/
+build/
+**/build/
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+**/venv/
+**/.venv/
+
+# Python tools
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logs/
+**/logs/
+
+# ==========================================
+# VS Code
+# ==========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# ==========================================
+# Operating System
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Temporary files
+# ==========================================
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Coverage / Testing
+# ==========================================
+coverage/
+.nyc_output/
+
+# ==========================================
+# Cache
+# ==========================================
+.cache/
+.parcel-cache/
+.vite/
+
+# ==========================================
+# Python camera service
+# ==========================================
+camera_service/__pycache__/
+camera_service/*.pyc
+
+# ==========================================
+# Arduino / ESP32 temporary files
+# ==========================================
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+
+# ==========================================
+# Local development files
+# ==========================================
+*.local
